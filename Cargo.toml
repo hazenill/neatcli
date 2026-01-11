@@ -6,8 +6,8 @@ description = "A smart CLI tool to organize and clean up messy directories"
 license = "MIT"
 keywords = ["cli", "file-organizer", "cleanup", "utility"]
 categories = ["command-line-utilities", "filesystem"]
-repository = "https://github.com/patchybean/neatcli"
-homepage = "https://github.com/patchybean/neatcli"
+repository = "https://github.com/hazenill/neatcli"
+homepage = "https://github.com/hazenill/neatcli"
 readme = "README.md"
 authors = ["Patchy Bean"]
 

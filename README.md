@@ -1,7 +1,7 @@
 # 🧹 neatcli
 
-[![CI](https://github.com/patchybean/neatcli/actions/workflows/ci.yml/badge.svg)](https://github.com/patchybean/neatcli/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/patchybean/neatcli)](https://github.com/patchybean/neatcli/releases)
+[![CI](https://github.com/hazenill/neatcli/actions/workflows/ci.yml/badge.svg)](https://github.com/hazenill/neatcli/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/hazenill/neatcli)](https://github.com/hazenill/neatcli/releases)
 [![Crates.io](https://img.shields.io/crates/v/neatcli.svg)](https://crates.io/crates/neatcli)
 [![Documentation](https://readthedocs.org/projects/neatcli/badge/?version=latest)](https://neatcli.readthedocs.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -35,7 +35,7 @@ A smart CLI tool to organize and clean up messy directories, built in Rust.
 ### Using Homebrew
 
 ```bash
-brew tap patchybean/tap
+brew tap hazenill/tap
 brew install neatcli
 ```
 
@@ -48,7 +48,7 @@ cargo install neatcli
 ### From source
 
 ```bash
-git clone https://github.com/patchybean/neatcli
+git clone https://github.com/hazenill/neatcli
 cd neatcli
 cargo build --release
 sudo cp target/release/neatcli /usr/local/bin/

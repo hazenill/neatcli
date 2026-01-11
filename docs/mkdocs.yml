@@ -2,8 +2,8 @@ site_name: NeatCLI
 site_url: https://neatcli.readthedocs.io
 site_description: A smart CLI tool to organize and clean up messy directories
 site_author: Patchy Bean
-repo_url: https://github.com/patchybean/neatcli
-repo_name: patchybean/neatcli
+repo_url: https://github.com/hazenill/neatcli
+repo_name: hazenill/neatcli
 
 theme:
   name: material
@@ -78,6 +78,6 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/patchybean/neatcli
+      link: https://github.com/hazenill/neatcli
 
 copyright: Copyright &copy; 2025 Patchy Bean
